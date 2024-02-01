@@ -1,0 +1,17 @@
+aside{
+    float: inline-end;
+    width: 25%;
+    margin:0;
+    margin-right: 0;
+    margin-left: 1%;
+    padding: 10px;
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid #bbbbbb;
+}
+aside li a{
+    display: flex;
+    justify-content: flex-start;
+
+}
+
